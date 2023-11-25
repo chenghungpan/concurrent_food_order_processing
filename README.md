@@ -1,28 +1,5 @@
 # Food Order System
 
-food_order_system/
-│
-├── venv/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Virtual environment directory
-│
-├── food_order/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Main package directory
-│   ├── `__init__`.py  &nbsp;&nbsp;&nbsp;&nbsp;# Makes food_order a Python package
-│   ├── `models.py`                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# To define Order, Cooler, Heater, and Shelf classes
-│   ├── `manager.py`               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# To handle the logic of order management
-│   ├── `storage.py`               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# To manage storage logic
-│   ├── `simulator.py`             &nbsp;&nbsp;# To simulate the order processing
-│   ├── `utils.py`                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# For utility functions and constants
-│   ├── `api.py`                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# For handling interactions with the Challenge Server
-│   └── `config.py`                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# For storing configuration details like auth tokens
-│
-├── tests/  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Directory for test cases
-│   ├── sim_order.log &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Detailed simulation log
-│   ├── input_orders.json          &nbsp;&nbsp;&nbsp;# json file of orders placed
-│   └── output_actions.json        # json file of actions generated
-│
-├── .env  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Environment variables file
-├── `main.py` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Entry point for the simulation program
-└── `README.md` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Project documentation
-
 ##### Download & Unzip the Project File
 1. `cd <your working directory>`
 2. Download `food_order_system_James_Pan.zip`
