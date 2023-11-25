@@ -1,0 +1,290 @@
+[
+    {
+        "id": "7wi9j",
+        "name": "Turkey Sandwich",
+        "temp": "cold",
+        "freshness": 73
+    },
+    {
+        "id": "7w78y",
+        "name": "Lukewarm Coke",
+        "temp": "room",
+        "freshness": 97
+    },
+    {
+        "id": "jrdik",
+        "name": "Chocolate Gelato",
+        "temp": "cold",
+        "freshness": 91
+    },
+    {
+        "id": "nt1aa",
+        "name": "Burrito",
+        "temp": "hot",
+        "freshness": 96
+    },
+    {
+        "id": "f97ya",
+        "name": "Tomato Soup",
+        "temp": "hot",
+        "freshness": 150
+    },
+    {
+        "id": "k6sj9",
+        "name": "Strawberry Ice Cream",
+        "temp": "cold",
+        "freshness": 166
+    },
+    {
+        "id": "eawox",
+        "name": "Yesterday's Jam",
+        "temp": "room",
+        "freshness": 145
+    },
+    {
+        "id": "mibn6",
+        "name": "Whole Wheat Bread",
+        "temp": "room",
+        "freshness": 124
+    },
+    {
+        "id": "ijpwp",
+        "name": "Bacon Burger",
+        "temp": "hot",
+        "freshness": 170
+    },
+    {
+        "id": "fhoqi",
+        "name": "Orange Sherbet",
+        "temp": "cold",
+        "freshness": 91
+    },
+    {
+        "id": "1neh3",
+        "name": "Cookie Dough",
+        "temp": "cold",
+        "freshness": 80
+    },
+    {
+        "id": "6xpjw",
+        "name": "French Fries",
+        "temp": "hot",
+        "freshness": 103
+    },
+    {
+        "id": "wr6xq",
+        "name": "Orange Sherbet",
+        "temp": "cold",
+        "freshness": 78
+    },
+    {
+        "id": "qbize",
+        "name": "Danish Pastry",
+        "temp": "room",
+        "freshness": 141
+    },
+    {
+        "id": "1tr1t",
+        "name": "Popsicle",
+        "temp": "cold",
+        "freshness": 145
+    },
+    {
+        "id": "d9pq3",
+        "name": "Cookie Dough",
+        "temp": "cold",
+        "freshness": 65
+    },
+    {
+        "id": "xr5rq",
+        "name": "Pork Chop",
+        "temp": "hot",
+        "freshness": 92
+    },
+    {
+        "id": "8qdj6",
+        "name": "Tuna Sandwich",
+        "temp": "cold",
+        "freshness": 114
+    },
+    {
+        "id": "cck7p",
+        "name": "Whole Wheat Bread",
+        "temp": "room",
+        "freshness": 141
+    },
+    {
+        "id": "jhg3s",
+        "name": "Dry Biscuits",
+        "temp": "room",
+        "freshness": 96
+    },
+    {
+        "id": "mx7ya",
+        "name": "Pad Thai",
+        "temp": "hot",
+        "freshness": 106
+    },
+    {
+        "id": "ye1oy",
+        "name": "Italian Meatballs",
+        "temp": "hot",
+        "freshness": 73
+    },
+    {
+        "id": "ysta8",
+        "name": "Pad See Ew",
+        "temp": "hot",
+        "freshness": 62
+    },
+    {
+        "id": "bei1d",
+        "name": "Vanilla Ice Cream",
+        "temp": "cold",
+        "freshness": 70
+    },
+    {
+        "id": "rcfka",
+        "name": "Pork Chop",
+        "temp": "hot",
+        "freshness": 123
+    },
+    {
+        "id": "z1ztw",
+        "name": "Fish Tacos",
+        "temp": "hot",
+        "freshness": 165
+    },
+    {
+        "id": "7hmh4",
+        "name": "French Fries",
+        "temp": "hot",
+        "freshness": 95
+    },
+    {
+        "id": "hrrkq",
+        "name": "Popsicle",
+        "temp": "cold",
+        "freshness": 139
+    },
+    {
+        "id": "4mbxa",
+        "name": "Bacon Burger",
+        "temp": "hot",
+        "freshness": 93
+    },
+    {
+        "id": "1oecf",
+        "name": "Pork Chop",
+        "temp": "hot",
+        "freshness": 64
+    },
+    {
+        "id": "k49gi",
+        "name": "Tuna Sandwich",
+        "temp": "cold",
+        "freshness": 137
+    },
+    {
+        "id": "xuynb",
+        "name": "Yesterday's Jam",
+        "temp": "room",
+        "freshness": 130
+    },
+    {
+        "id": "1iwnd",
+        "name": "Turkey Sandwich",
+        "temp": "cold",
+        "freshness": 175
+    },
+    {
+        "id": "9bwq9",
+        "name": "Mixed Greens",
+        "temp": "cold",
+        "freshness": 100
+    },
+    {
+        "id": "w378h",
+        "name": "Pastrami Sandwich",
+        "temp": "cold",
+        "freshness": 108
+    },
+    {
+        "id": "orzdw",
+        "name": "Vanilla Ice Cream",
+        "temp": "cold",
+        "freshness": 76
+    },
+    {
+        "id": "1smnp",
+        "name": "Sushi",
+        "temp": "cold",
+        "freshness": 173
+    },
+    {
+        "id": "bncko",
+        "name": "Pad Thai",
+        "temp": "hot",
+        "freshness": 85
+    },
+    {
+        "id": "174yx",
+        "name": "Spaghetti",
+        "temp": "hot",
+        "freshness": 150
+    },
+    {
+        "id": "csipm",
+        "name": "Strawberries",
+        "temp": "room",
+        "freshness": 104
+    },
+    {
+        "id": "zkgfg",
+        "name": "Danish Pastry",
+        "temp": "room",
+        "freshness": 140
+    },
+    {
+        "id": "jetea",
+        "name": "Turkey Sandwich",
+        "temp": "cold",
+        "freshness": 83
+    },
+    {
+        "id": "efo1b",
+        "name": "Burrito",
+        "temp": "hot",
+        "freshness": 65
+    },
+    {
+        "id": "j5wwy",
+        "name": "Mixed Greens",
+        "temp": "cold",
+        "freshness": 128
+    },
+    {
+        "id": "obchm",
+        "name": "Yesterday's Jam",
+        "temp": "room",
+        "freshness": 152
+    },
+    {
+        "id": "h33ff",
+        "name": "Kale Salad",
+        "temp": "cold",
+        "freshness": 170
+    },
+    {
+        "id": "6g55o",
+        "name": "Fizzed-Out Pepsi",
+        "temp": "room",
+        "freshness": 85
+    },
+    {
+        "id": "ucy86",
+        "name": "Kebab",
+        "temp": "hot",
+        "freshness": 70
+    }
+]

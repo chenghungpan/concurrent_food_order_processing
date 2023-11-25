@@ -1,0 +1,782 @@
+****************************************************************************************************
+Fetched new problem with Test ID: 294
+size of placed orders= 48
+[
+    {
+        "id": "7wi9j",
+        "name": "Turkey Sandwich",
+        "temp": "cold",
+        "freshness": 73
+    },
+    {
+        "id": "7w78y",
+        "name": "Lukewarm Coke",
+        "temp": "room",
+        "freshness": 97
+    },
+    {
+        "id": "jrdik",
+        "name": "Chocolate Gelato",
+        "temp": "cold",
+        "freshness": 91
+    },
+    {
+        "id": "nt1aa",
+        "name": "Burrito",
+        "temp": "hot",
+        "freshness": 96
+    },
+    {
+        "id": "f97ya",
+        "name": "Tomato Soup",
+        "temp": "hot",
+        "freshness": 150
+    },
+    {
+        "id": "k6sj9",
+        "name": "Strawberry Ice Cream",
+        "temp": "cold",
+        "freshness": 166
+    },
+    {
+        "id": "eawox",
+        "name": "Yesterday's Jam",
+        "temp": "room",
+        "freshness": 145
+    },
+    {
+        "id": "mibn6",
+        "name": "Whole Wheat Bread",
+        "temp": "room",
+        "freshness": 124
+    },
+    {
+        "id": "ijpwp",
+        "name": "Bacon Burger",
+        "temp": "hot",
+        "freshness": 170
+    },
+    {
+        "id": "fhoqi",
+        "name": "Orange Sherbet",
+        "temp": "cold",
+        "freshness": 91
+    },
+    {
+        "id": "1neh3",
+        "name": "Cookie Dough",
+        "temp": "cold",
+        "freshness": 80
+    },
+    {
+        "id": "6xpjw",
+        "name": "French Fries",
+        "temp": "hot",
+        "freshness": 103
+    },
+    {
+        "id": "wr6xq",
+        "name": "Orange Sherbet",
+        "temp": "cold",
+        "freshness": 78
+    },
+    {
+        "id": "qbize",
+        "name": "Danish Pastry",
+        "temp": "room",
+        "freshness": 141
+    },
+    {
+        "id": "1tr1t",
+        "name": "Popsicle",
+        "temp": "cold",
+        "freshness": 145
+    },
+    {
+        "id": "d9pq3",
+        "name": "Cookie Dough",
+        "temp": "cold",
+        "freshness": 65
+    },
+    {
+        "id": "xr5rq",
+        "name": "Pork Chop",
+        "temp": "hot",
+        "freshness": 92
+    },
+    {
+        "id": "8qdj6",
+        "name": "Tuna Sandwich",
+        "temp": "cold",
+        "freshness": 114
+    },
+    {
+        "id": "cck7p",
+        "name": "Whole Wheat Bread",
+        "temp": "room",
+        "freshness": 141
+    },
+    {
+        "id": "jhg3s",
+        "name": "Dry Biscuits",
+        "temp": "room",
+        "freshness": 96
+    },
+    {
+        "id": "mx7ya",
+        "name": "Pad Thai",
+        "temp": "hot",
+        "freshness": 106
+    },
+    {
+        "id": "ye1oy",
+        "name": "Italian Meatballs",
+        "temp": "hot",
+        "freshness": 73
+    },
+    {
+        "id": "ysta8",
+        "name": "Pad See Ew",
+        "temp": "hot",
+        "freshness": 62
+    },
+    {
+        "id": "bei1d",
+        "name": "Vanilla Ice Cream",
+        "temp": "cold",
+        "freshness": 70
+    },
+    {
+        "id": "rcfka",
+        "name": "Pork Chop",
+        "temp": "hot",
+        "freshness": 123
+    },
+    {
+        "id": "z1ztw",
+        "name": "Fish Tacos",
+        "temp": "hot",
+        "freshness": 165
+    },
+    {
+        "id": "7hmh4",
+        "name": "French Fries",
+        "temp": "hot",
+        "freshness": 95
+    },
+    {
+        "id": "hrrkq",
+        "name": "Popsicle",
+        "temp": "cold",
+        "freshness": 139
+    },
+    {
+        "id": "4mbxa",
+        "name": "Bacon Burger",
+        "temp": "hot",
+        "freshness": 93
+    },
+    {
+        "id": "1oecf",
+        "name": "Pork Chop",
+        "temp": "hot",
+        "freshness": 64
+    },
+    {
+        "id": "k49gi",
+        "name": "Tuna Sandwich",
+        "temp": "cold",
+        "freshness": 137
+    },
+    {
+        "id": "xuynb",
+        "name": "Yesterday's Jam",
+        "temp": "room",
+        "freshness": 130
+    },
+    {
+        "id": "1iwnd",
+        "name": "Turkey Sandwich",
+        "temp": "cold",
+        "freshness": 175
+    },
+    {
+        "id": "9bwq9",
+        "name": "Mixed Greens",
+        "temp": "cold",
+        "freshness": 100
+    },
+    {
+        "id": "w378h",
+        "name": "Pastrami Sandwich",
+        "temp": "cold",
+        "freshness": 108
+    },
+    {
+        "id": "orzdw",
+        "name": "Vanilla Ice Cream",
+        "temp": "cold",
+        "freshness": 76
+    },
+    {
+        "id": "1smnp",
+        "name": "Sushi",
+        "temp": "cold",
+        "freshness": 173
+    },
+    {
+        "id": "bncko",
+        "name": "Pad Thai",
+        "temp": "hot",
+        "freshness": 85
+    },
+    {
+        "id": "174yx",
+        "name": "Spaghetti",
+        "temp": "hot",
+        "freshness": 150
+    },
+    {
+        "id": "csipm",
+        "name": "Strawberries",
+        "temp": "room",
+        "freshness": 104
+    },
+    {
+        "id": "zkgfg",
+        "name": "Danish Pastry",
+        "temp": "room",
+        "freshness": 140
+    },
+    {
+        "id": "jetea",
+        "name": "Turkey Sandwich",
+        "temp": "cold",
+        "freshness": 83
+    },
+    {
+        "id": "efo1b",
+        "name": "Burrito",
+        "temp": "hot",
+        "freshness": 65
+    },
+    {
+        "id": "j5wwy",
+        "name": "Mixed Greens",
+        "temp": "cold",
+        "freshness": 128
+    },
+    {
+        "id": "obchm",
+        "name": "Yesterday's Jam",
+        "temp": "room",
+        "freshness": 152
+    },
+    {
+        "id": "h33ff",
+        "name": "Kale Salad",
+        "temp": "cold",
+        "freshness": 170
+    },
+    {
+        "id": "6g55o",
+        "name": "Fizzed-Out Pepsi",
+        "temp": "room",
+        "freshness": 85
+    },
+    {
+        "id": "ucy86",
+        "name": "Kebab",
+        "temp": "hot",
+        "freshness": 70
+    }
+]
+
+action={'timestamp': 1700925129103691, 'id': '7wi9j', 'action': 'place', 'additional_info': 'cold'}
+# shelf order =0
+# heater order =0
+# cooler order =1
+action={'timestamp': 1700925129604618, 'id': '7w78y', 'action': 'place', 'additional_info': 'room'}
+# shelf order =1
+# heater order =0
+# cooler order =1
+action={'timestamp': 1700925130107986, 'id': 'jrdik', 'action': 'place', 'additional_info': 'cold'}
+# shelf order =1
+# heater order =0
+# cooler order =2
+action={'timestamp': 1700925130610477, 'id': 'nt1aa', 'action': 'place', 'additional_info': 'hot'}
+# shelf order =1
+# heater order =1
+# cooler order =2
+action={'timestamp': 1700925131111200, 'id': 'f97ya', 'action': 'place', 'additional_info': 'hot'}
+# shelf order =1
+# heater order =2
+# cooler order =2
+action={'timestamp': 1700925131613454, 'id': 'k6sj9', 'action': 'place', 'additional_info': 'cold'}
+# shelf order =1
+# heater order =2
+# cooler order =3
+action={'timestamp': 1700925132115569, 'id': 'eawox', 'action': 'place', 'additional_info': 'room'}
+# shelf order =2
+# heater order =2
+# cooler order =3
+action={'timestamp': 1700925132618442, 'id': 'mibn6', 'action': 'place', 'additional_info': 'room'}
+# shelf order =3
+# heater order =2
+# cooler order =3
+action={'timestamp': 1700925133120471, 'id': 'ijpwp', 'action': 'place', 'additional_info': 'hot'}
+# shelf order =3
+# heater order =3
+# cooler order =3
+action={'timestamp': 1700925133622256, 'id': 'fhoqi', 'action': 'place', 'additional_info': 'cold'}
+# shelf order =3
+# heater order =3
+# cooler order =4
+action={'timestamp': 1700925134124775, 'id': '1neh3', 'action': 'place', 'additional_info': 'cold'}
+# shelf order =3
+# heater order =3
+# cooler order =5
+action={'timestamp': 1700925134626480, 'id': '6xpjw', 'action': 'place', 'additional_info': 'hot'}
+# shelf order =3
+# heater order =4
+# cooler order =5
+action={'timestamp': 1700925135129183, 'id': 'wr6xq', 'action': 'place', 'additional_info': 'cold'}
+# shelf order =3
+# heater order =4
+# cooler order =6
+order=jrdikorder_id=jrdik
+action=[{'timestamp': 1700925135425848, 'id': 'jrdik', 'action': 'pickup', 'additional_info': 'from cooler: cold\n'}]
+# shelf order =3
+# heater order =4
+# cooler order =5
+action={'timestamp': 1700925135631276, 'id': 'qbize', 'action': 'place', 'additional_info': 'room'}
+# shelf order =4
+# heater order =4
+# cooler order =5
+action={'timestamp': 1700925136133331, 'id': '1tr1t', 'action': 'place', 'additional_info': 'cold'}
+# shelf order =4
+# heater order =4
+# cooler order =6
+order=7wi9jorder_id=7wi9j
+action=[{'timestamp': 1700925136295004, 'id': '7wi9j', 'action': 'pickup', 'additional_info': 'from cooler: cold\n'}]
+# shelf order =4
+# heater order =4
+# cooler order =5
+order=7w78yorder_id=7w78y
+action=[{'timestamp': 1700925136339283, 'id': '7w78y', 'action': 'pickup', 'additional_info': 'from shelf: room\n'}]
+# shelf order =3
+# heater order =4
+# cooler order =5
+action={'timestamp': 1700925136636296, 'id': 'd9pq3', 'action': 'place', 'additional_info': 'cold'}
+# shelf order =3
+# heater order =4
+# cooler order =6
+order=nt1aaorder_id=nt1aa
+action=[{'timestamp': 1700925136650221, 'id': 'nt1aa', 'action': 'pickup', 'additional_info': 'from heater: hot\n'}]
+# shelf order =3
+# heater order =3
+# cooler order =6
+order=k6sj9order_id=k6sj9
+action=[{'timestamp': 1700925137107508, 'id': 'k6sj9', 'action': 'pickup', 'additional_info': 'from cooler: cold\n'}]
+# shelf order =3
+# heater order =3
+# cooler order =5
+order=eawoxorder_id=eawox
+action=[{'timestamp': 1700925137119673, 'id': 'eawox', 'action': 'pickup', 'additional_info': 'from shelf: room\n'}]
+# shelf order =2
+# heater order =3
+# cooler order =5
+action={'timestamp': 1700925137138471, 'id': 'xr5rq', 'action': 'place', 'additional_info': 'hot'}
+# shelf order =2
+# heater order =4
+# cooler order =5
+action={'timestamp': 1700925137640338, 'id': '8qdj6', 'action': 'place', 'additional_info': 'cold'}
+# shelf order =2
+# heater order =4
+# cooler order =6
+order=f97yaorder_id=f97ya
+action=[{'timestamp': 1700925137797683, 'id': 'f97ya', 'action': 'pickup', 'additional_info': 'from heater: hot\n'}]
+# shelf order =2
+# heater order =3
+# cooler order =6
+action={'timestamp': 1700925138142394, 'id': 'cck7p', 'action': 'place', 'additional_info': 'room'}
+# shelf order =3
+# heater order =3
+# cooler order =6
+action={'timestamp': 1700925138644743, 'id': 'jhg3s', 'action': 'place', 'additional_info': 'room'}
+# shelf order =4
+# heater order =3
+# cooler order =6
+action={'timestamp': 1700925139147863, 'id': 'mx7ya', 'action': 'place', 'additional_info': 'hot'}
+# shelf order =4
+# heater order =4
+# cooler order =6
+order=wr6xqorder_id=wr6xq
+action=[{'timestamp': 1700925139298487, 'id': 'wr6xq', 'action': 'pickup', 'additional_info': 'from cooler: cold\n'}]
+# shelf order =4
+# heater order =4
+# cooler order =5
+order=mibn6order_id=mibn6
+action=[{'timestamp': 1700925139581959, 'id': 'mibn6', 'action': 'pickup', 'additional_info': 'from shelf: room\n'}]
+# shelf order =3
+# heater order =4
+# cooler order =5
+action={'timestamp': 1700925139649273, 'id': 'ye1oy', 'action': 'place', 'additional_info': 'hot'}
+# shelf order =3
+# heater order =5
+# cooler order =5
+order=6xpjworder_id=6xpjw
+action=[{'timestamp': 1700925139807903, 'id': '6xpjw', 'action': 'pickup', 'additional_info': 'from heater: hot\n'}]
+# shelf order =3
+# heater order =4
+# cooler order =5
+action={'timestamp': 1700925140151707, 'id': 'ysta8', 'action': 'place', 'additional_info': 'hot'}
+# shelf order =3
+# heater order =5
+# cooler order =5
+order=qbizeorder_id=qbize
+action=[{'timestamp': 1700925140205434, 'id': 'qbize', 'action': 'pickup', 'additional_info': 'from shelf: room\n'}]
+# shelf order =2
+# heater order =5
+# cooler order =5
+order=fhoqiorder_id=fhoqi
+action=[{'timestamp': 1700925140224975, 'id': 'fhoqi', 'action': 'pickup', 'additional_info': 'from cooler: cold\n'}]
+# shelf order =2
+# heater order =5
+# cooler order =4
+order=ijpwporder_id=ijpwp
+action=[{'timestamp': 1700925140333443, 'id': 'ijpwp', 'action': 'pickup', 'additional_info': 'from heater: hot\n'}]
+# shelf order =2
+# heater order =4
+# cooler order =4
+action={'timestamp': 1700925140655285, 'id': 'bei1d', 'action': 'place', 'additional_info': 'cold'}
+# shelf order =2
+# heater order =4
+# cooler order =5
+action={'timestamp': 1700925141159007, 'id': 'rcfka', 'action': 'place', 'additional_info': 'hot'}
+# shelf order =2
+# heater order =5
+# cooler order =5
+action={'timestamp': 1700925141660588, 'id': 'z1ztw', 'action': 'place', 'additional_info': 'hot'}
+# shelf order =2
+# heater order =6
+# cooler order =5
+order=1neh3order_id=1neh3
+action=[{'timestamp': 1700925141834267, 'id': '1neh3', 'action': 'pickup', 'additional_info': 'from cooler: cold\n'}]
+# shelf order =2
+# heater order =6
+# cooler order =4
+action={'timestamp': 1700925142163150, 'id': '7hmh4', 'action': 'place', 'additional_info': 'hot'}
+# shelf order =3
+# heater order =6
+# cooler order =4
+order=xr5rqorder_id=xr5rq
+action=[{'timestamp': 1700925142278568, 'id': 'xr5rq', 'action': 'pickup', 'additional_info': 'from heater: hot\n'}]
+# shelf order =3
+# heater order =5
+# cooler order =4
+order=d9pq3order_id=d9pq3
+action=[{'timestamp': 1700925142539933, 'id': 'd9pq3', 'action': 'pickup', 'additional_info': 'from cooler: cold\n'}]
+# shelf order =3
+# heater order =5
+# cooler order =3
+action={'timestamp': 1700925142664368, 'id': 'hrrkq', 'action': 'place', 'additional_info': 'cold'}
+# shelf order =3
+# heater order =5
+# cooler order =4
+order=1tr1torder_id=1tr1t
+action=[{'timestamp': 1700925142799609, 'id': '1tr1t', 'action': 'pickup', 'additional_info': 'from cooler: cold\n'}]
+# shelf order =3
+# heater order =5
+# cooler order =3
+order=cck7porder_id=cck7p
+action=[{'timestamp': 1700925142918504, 'id': 'cck7p', 'action': 'pickup', 'additional_info': 'from shelf: room\n'}]
+# shelf order =2
+# heater order =5
+# cooler order =3
+action={'timestamp': 1700925143167495, 'id': '4mbxa', 'action': 'place', 'additional_info': 'hot'}
+# shelf order =2
+# heater order =6
+# cooler order =3
+order=8qdj6order_id=8qdj6
+action=[{'timestamp': 1700925143662607, 'id': '8qdj6', 'action': 'pickup', 'additional_info': 'from cooler: cold\n'}]
+# shelf order =2
+# heater order =6
+# cooler order =2
+action={'timestamp': 1700925143670229, 'id': '1oecf', 'action': 'place', 'additional_info': 'hot'}
+# shelf order =3
+# heater order =6
+# cooler order =2
+order=mx7yaorder_id=mx7ya
+action=[{'timestamp': 1700925143982297, 'id': 'mx7ya', 'action': 'pickup', 'additional_info': 'from heater: hot\n'}]
+# shelf order =3
+# heater order =5
+# cooler order =2
+action={'timestamp': 1700925144171453, 'id': 'k49gi', 'action': 'place', 'additional_info': 'cold'}
+# shelf order =3
+# heater order =5
+# cooler order =3
+action={'timestamp': 1700925144674113, 'id': 'xuynb', 'action': 'place', 'additional_info': 'room'}
+# shelf order =4
+# heater order =5
+# cooler order =3
+order=jhg3sorder_id=jhg3s
+action=[{'timestamp': 1700925144749218, 'id': 'jhg3s', 'action': 'pickup', 'additional_info': 'from shelf: room\n'}]
+# shelf order =3
+# heater order =5
+# cooler order =3
+action={'timestamp': 1700925145177249, 'id': '1iwnd', 'action': 'place', 'additional_info': 'cold'}
+# shelf order =3
+# heater order =5
+# cooler order =4
+order=bei1dorder_id=bei1d
+action=[{'timestamp': 1700925145298932, 'id': 'bei1d', 'action': 'pickup', 'additional_info': 'from cooler: cold\n'}]
+# shelf order =3
+# heater order =5
+# cooler order =3
+action={'timestamp': 1700925145678428, 'id': '9bwq9', 'action': 'place', 'additional_info': 'cold'}
+# shelf order =3
+# heater order =5
+# cooler order =4
+order=rcfkaorder_id=rcfka
+action=[{'timestamp': 1700925146155228, 'id': 'rcfka', 'action': 'pickup', 'additional_info': 'from heater: hot\n'}]
+# shelf order =3
+# heater order =4
+# cooler order =4
+action={'timestamp': 1700925146181059, 'id': 'w378h', 'action': 'place', 'additional_info': 'cold'}
+# shelf order =3
+# heater order =4
+# cooler order =5
+order=ye1oyorder_id=ye1oy
+action=[{'timestamp': 1700925146635437, 'id': 'ye1oy', 'action': 'pickup', 'additional_info': 'from heater: hot\n'}]
+# shelf order =3
+# heater order =3
+# cooler order =5
+action={'timestamp': 1700925146682730, 'id': 'orzdw', 'action': 'place', 'additional_info': 'cold'}
+# shelf order =3
+# heater order =3
+# cooler order =6
+order=z1ztworder_id=z1ztw
+action=[{'timestamp': 1700925146919208, 'id': 'z1ztw', 'action': 'pickup', 'additional_info': 'from heater: hot\n'}]
+# shelf order =3
+# heater order =2
+# cooler order =6
+action={'timestamp': 1700925147184584, 'id': '1smnp', 'action': 'place', 'additional_info': 'cold'}
+# shelf order =4
+# heater order =2
+# cooler order =6
+order=4mbxaorder_id=4mbxa
+action=[{'timestamp': 1700925147234717, 'id': '4mbxa', 'action': 'pickup', 'additional_info': 'from heater: hot\n'}]
+# shelf order =4
+# heater order =1
+# cooler order =6
+order=ysta8order_id=ysta8
+action=[{'timestamp': 1700925147485425, 'id': 'ysta8', 'action': 'pickup', 'additional_info': 'from heater: hot\n'}]
+# shelf order =4
+# heater order =0
+# cooler order =6
+action={'timestamp': 1700925147687281, 'id': 'bncko', 'action': 'place', 'additional_info': 'hot'}
+# shelf order =4
+# heater order =1
+# cooler order =6
+order=7hmh4order_id=7hmh4
+action=[{'timestamp': 1700925147835233, 'id': '7hmh4', 'action': 'pickup', 'additional_info': 'from shelf: hot\n'}]
+# shelf order =3
+# heater order =1
+# cooler order =6
+action={'timestamp': 1700925148189503, 'id': '174yx', 'action': 'place', 'additional_info': 'hot'}
+# shelf order =3
+# heater order =2
+# cooler order =6
+action={'timestamp': 1700925148692201, 'id': 'csipm', 'action': 'place', 'additional_info': 'room'}
+# shelf order =4
+# heater order =2
+# cooler order =6
+action={'timestamp': 1700925149195917, 'id': 'zkgfg', 'action': 'place', 'additional_info': 'room'}
+# shelf order =5
+# heater order =2
+# cooler order =6
+action={'timestamp': 1700925149698926, 'id': 'jetea', 'action': 'place', 'additional_info': 'cold'}
+# shelf order =6
+# heater order =2
+# cooler order =6
+order=hrrkqorder_id=hrrkq
+action=[{'timestamp': 1700925149765311, 'id': 'hrrkq', 'action': 'pickup', 'additional_info': 'from cooler: cold\n'}]
+# shelf order =6
+# heater order =2
+# cooler order =5
+action={'timestamp': 1700925150201078, 'id': 'efo1b', 'action': 'place', 'additional_info': 'hot'}
+# shelf order =6
+# heater order =3
+# cooler order =5
+order=w378horder_id=w378h
+action=[{'timestamp': 1700925150265205, 'id': 'w378h', 'action': 'pickup', 'additional_info': 'from cooler: cold\n'}]
+# shelf order =6
+# heater order =3
+# cooler order =4
+order=1oecforder_id=1oecf
+action=[{'timestamp': 1700925150576658, 'id': '1oecf', 'action': 'pickup', 'additional_info': 'from shelf: hot\n'}]
+# shelf order =5
+# heater order =3
+# cooler order =4
+action={'timestamp': 1700925150702467, 'id': 'j5wwy', 'action': 'place', 'additional_info': 'cold'}
+# shelf order =5
+# heater order =3
+# cooler order =5
+order=orzdworder_id=orzdw
+action=[{'timestamp': 1700925150929916, 'id': 'orzdw', 'action': 'pickup', 'additional_info': 'from cooler: cold\n'}]
+# shelf order =5
+# heater order =3
+# cooler order =4
+order=xuynborder_id=xuynb
+action=[{'timestamp': 1700925151088795, 'id': 'xuynb', 'action': 'pickup', 'additional_info': 'from shelf: room\n'}]
+# shelf order =4
+# heater order =3
+# cooler order =4
+action={'timestamp': 1700925151203655, 'id': 'obchm', 'action': 'place', 'additional_info': 'room'}
+# shelf order =5
+# heater order =3
+# cooler order =4
+order=k49giorder_id=k49gi
+action=[{'timestamp': 1700925151581801, 'id': 'k49gi', 'action': 'pickup', 'additional_info': 'from cooler: cold\n'}]
+# shelf order =5
+# heater order =3
+# cooler order =3
+action={'timestamp': 1700925151705114, 'id': 'h33ff', 'action': 'place', 'additional_info': 'cold'}
+# shelf order =5
+# heater order =3
+# cooler order =4
+action={'timestamp': 1700925152206955, 'id': '6g55o', 'action': 'place', 'additional_info': 'room'}
+# shelf order =6
+# heater order =3
+# cooler order =4
+order=1iwndorder_id=1iwnd
+action=[{'timestamp': 1700925152380018, 'id': '1iwnd', 'action': 'pickup', 'additional_info': 'from cooler: cold\n'}]
+# shelf order =6
+# heater order =3
+# cooler order =3
+action={'timestamp': 1700925152707959, 'id': 'ucy86', 'action': 'place', 'additional_info': 'hot'}
+# shelf order =6
+# heater order =4
+# cooler order =3
+order=1smnporder_id=1smnp
+action=[{'timestamp': 1700925152850498, 'id': '1smnp', 'action': 'pickup', 'additional_info': 'from shelf: cold\n'}]
+# shelf order =5
+# heater order =4
+# cooler order =3
+order=9bwq9order_id=9bwq9
+action=[{'timestamp': 1700925153130073, 'id': '9bwq9', 'action': 'pickup', 'additional_info': 'from cooler: cold\n'}]
+# shelf order =5
+# heater order =4
+# cooler order =2
+order=bnckoorder_id=bncko
+action=[{'timestamp': 1700925154193122, 'id': 'bncko', 'action': 'pickup', 'additional_info': 'from heater: hot\n'}]
+# shelf order =5
+# heater order =3
+# cooler order =2
+order=csipmorder_id=csipm
+action=[{'timestamp': 1700925154315410, 'id': 'csipm', 'action': 'pickup', 'additional_info': 'from shelf: room\n'}]
+# shelf order =4
+# heater order =3
+# cooler order =2
+order=174yxorder_id=174yx
+action=[{'timestamp': 1700925154574859, 'id': '174yx', 'action': 'pickup', 'additional_info': 'from heater: hot\n'}]
+# shelf order =4
+# heater order =2
+# cooler order =2
+order=j5wwyorder_id=j5wwy
+action=[{'timestamp': 1700925155920836, 'id': 'j5wwy', 'action': 'pickup', 'additional_info': 'from cooler: cold\n'}]
+# shelf order =4
+# heater order =2
+# cooler order =1
+order=zkgfgorder_id=zkgfg
+action=[{'timestamp': 1700925155953565, 'id': 'zkgfg', 'action': 'pickup', 'additional_info': 'from shelf: room\n'}]
+# shelf order =3
+# heater order =2
+# cooler order =1
+order=jeteaorder_id=jetea
+action=[{'timestamp': 1700925156486594, 'id': 'jetea', 'action': 'pickup', 'additional_info': 'from shelf: cold\n'}]
+# shelf order =2
+# heater order =2
+# cooler order =1
+order=efo1border_id=efo1b
+action=[{'timestamp': 1700925157152463, 'id': 'efo1b', 'action': 'pickup', 'additional_info': 'from heater: hot\n'}]
+# shelf order =2
+# heater order =1
+# cooler order =1
+order=h33fforder_id=h33ff
+action=[{'timestamp': 1700925158160564, 'id': 'h33ff', 'action': 'pickup', 'additional_info': 'from cooler: cold\n'}]
+# shelf order =2
+# heater order =1
+# cooler order =0
+order=obchmorder_id=obchm
+action=[{'timestamp': 1700925158565896, 'id': 'obchm', 'action': 'pickup', 'additional_info': 'from shelf: room\n'}]
+# shelf order =1
+# heater order =1
+# cooler order =0
+order=6g55oorder_id=6g55o
+action=[{'timestamp': 1700925159363541, 'id': '6g55o', 'action': 'pickup', 'additional_info': 'from shelf: room\n'}]
+# shelf order =0
+# heater order =1
+# cooler order =0
+order=ucy86order_id=ucy86
+action=[{'timestamp': 1700925159669573, 'id': 'ucy86', 'action': 'pickup', 'additional_info': 'from heater: hot\n'}]
+# shelf order =0
+# heater order =0
+# cooler order =0
+
+========================================
+Summary of Pickup Delays
+========================================
+Order 7wi9j delay: 7.191313 seconds
+Order 7w78y delay: 6.734665 seconds
+Order jrdik delay: 5.317862 seconds
+Order nt1aa delay: 6.039744 seconds
+Order f97ya delay: 6.686483 seconds
+Order k6sj9 delay: 5.494054 seconds
+Order eawox delay: 5.004104 seconds
+Order mibn6 delay: 6.963517 seconds
+Order ijpwp delay: 7.212972 seconds
+Order fhoqi delay: 6.602719 seconds
+Order 1neh3 delay: 7.709492 seconds
+Order 6xpjw delay: 5.181423 seconds
+Order wr6xq delay: 4.169304 seconds
+Order qbize delay: 4.574158 seconds
+Order 1tr1t delay: 6.666278 seconds
+Order d9pq3 delay: 5.903637 seconds
+Order xr5rq delay: 5.140097 seconds
+Order 8qdj6 delay: 6.022269 seconds
+Order cck7p delay: 4.77611 seconds
+Order jhg3s delay: 6.104475 seconds
+Order mx7ya delay: 4.834434 seconds
+Order ye1oy delay: 6.986164 seconds
+Order ysta8 delay: 7.333718 seconds
+Order bei1d delay: 4.643647 seconds
+Order rcfka delay: 4.996221 seconds
+Order z1ztw delay: 5.25862 seconds
+Order 7hmh4 delay: 5.672083 seconds
+Order hrrkq delay: 7.100943 seconds
+Order 4mbxa delay: 4.067222 seconds
+Order 1oecf delay: 6.906429 seconds
+Order k49gi delay: 7.410348 seconds
+Order xuynb delay: 6.414682 seconds
+Order 1iwnd delay: 7.202769 seconds
+Order 9bwq9 delay: 7.451645 seconds
+Order w378h delay: 4.084146 seconds
+Order orzdw delay: 4.247186 seconds
+Order 1smnp delay: 5.665914 seconds
+Order bncko delay: 6.505841 seconds
+Order 174yx delay: 6.385356 seconds
+Order csipm delay: 5.623209 seconds
+Order zkgfg delay: 6.757648 seconds
+Order jetea delay: 6.787668 seconds
+Order efo1b delay: 6.951385 seconds
+Order j5wwy delay: 5.218369 seconds
+Order obchm delay: 7.362241 seconds
+Order h33ff delay: 6.45545 seconds
+Order 6g55o delay: 7.156586 seconds
+Order ucy86 delay: 6.961614 seconds
+
+========================================
+Result of submission: pass
+========================================
